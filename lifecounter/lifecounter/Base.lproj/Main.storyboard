@@ -22,8 +22,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uWh-av-FFo">
-                                <rect key="frame" x="0.0" y="118" width="393" height="103"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="uWh-av-FFo">
+                                <rect key="frame" x="0.0" y="375" width="393" height="103"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Wdt-JZ-A8q">
                                         <rect key="frame" x="0.0" y="0.0" width="196.66666666666666" height="103"/>
